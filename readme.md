@@ -1,1 +1,24 @@
-This is a simple and interactive expense tracking web application built using HTML, CSS, and JavaScript. It allows users to record their income and expenses, track spending habits, and stay on top of their personal finances. With a clean interface and responsive layout, the app makes it easy for individuals to manage their money directly from the browser 
+# ExpenseTrackingApp
+
+This is a simple and interactive expense tracking web application built using HTML, CSS, and JavaScript. It allows users to record their income and expenses, track spending habits, and stay on top of their personal finances. With a clean interface and responsive layout, the app makes it easy for individuals to manage their money directly from the browser.
+
+
+## Features
+
+
+- Add income and expense entries dynamically.
+
+- Real-time balance calculation.
+
+- View transaction history with amounts and labels.
+
+- Delete individual entries.
+
+- Clear and user-friendly interface.
+
+  
+## Tech Stack
+
+HTML, CSS, JavaScript
+
+## Author
