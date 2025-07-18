@@ -23,10 +23,12 @@ HTML, CSS, JavaScript
 
  
 
-## Author
-- [@SunilKumarSharma129](https://github.com/SunilKumarSharma129)
  
  
 ## Screenshots
 ![screenshot](https://github.com/SunilKumarSharma129/ExpenseTrackingApp/blob/5a84d255cecb0f8249f45921dd121bf12bd1fed1/image-01.jpeg) 
+![screenshot](https://github.com/SunilKumarSharma129/ExpenseTrackingApp/blob/78ca4b08ead3fb469a0457f5d5136700a7515313/image-02.jpeg)
+
+ ## Author
+- [@SunilKumarSharma129](https://github.com/SunilKumarSharma129)
  
