@@ -28,5 +28,5 @@ HTML, CSS, JavaScript
  
  
 ## Screenshots
- 
+![screenshot](https://github.com/SunilKumarSharma129/ExpenseTrackingApp/blob/5a84d255cecb0f8249f45921dd121bf12bd1fed1/image-01.jpeg) 
  
