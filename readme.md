@@ -21,4 +21,12 @@ This is a simple and interactive expense tracking web application built using HT
 
 HTML, CSS, JavaScript
 
+ 
+
 ## Author
+- [@SunilKumarSharma129](https://github.com/SunilKumarSharma129)
+ 
+ 
+## Screenshots
+ 
+ 
