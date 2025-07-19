@@ -19,7 +19,7 @@ This is a simple and interactive expense tracking web application built using HT
   
 ## Tech Stack
 
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript 
 
  
 
